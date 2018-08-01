@@ -25,4 +25,11 @@ var_dump(A::CacheStart(  '200'  ,  'cache'  ));
 var_dump(A::CacheEnd());
 
 
+//Start Testing the functions in Encryption.AES.php
+
+
+use \BoostPHP\Cache\AES;
+var_dump(AES::encryptECB('windyhandsome','byliuxing'));
+
+
  ?>
