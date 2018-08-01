@@ -7,12 +7,21 @@ THIS IS ONLY THE TEST FOR BOOSTPHP2
 
 
 
+
+
+
 ##Test Environment
 
 
 
 
+
+
+
+
+
 NGINX 1.12
+
 PHP 7.1
 
 
