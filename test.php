@@ -21,7 +21,7 @@ require_once __DIR__ . "/BoostPHP/autoload.php";
 use \BoostPHP\Cache\AutoMode as A;
 use \BoostPHP\Cache\ManualMode as M;
 
-var_dump(A::CacheStart(  '200'  ,  '/cache' ,  ));
+var_dump(A::CacheStart(  '200'  ,  '/cache' ));
 
 
 
